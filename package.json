@@ -1,0 +1,24 @@
+{
+  "name": "jfnodeinfo",
+  "version": "0.1.0",
+  "description": "Simple Library to provide key System Internal Information of the Node Environment",
+  "main": "jfnodeinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianfrank/jfnodeinfo.git"
+  },
+  "keywords": [
+    "node",
+    "system",
+    "information"
+  ],
+  "author": "Julian Frank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianfrank/jfnodeinfo/issues"
+  },
+  "homepage": "https://github.com/julianfrank/jfnodeinfo#readme"
+}
