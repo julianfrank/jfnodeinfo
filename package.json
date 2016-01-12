@@ -1,6 +1,6 @@
 {
   "name": "jfnodeinfo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Simple Library to provide key System Internal Information of the Node Environment",
   "main": "jfnodeinfo.js",
   "scripts": {
