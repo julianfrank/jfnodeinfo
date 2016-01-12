@@ -40,8 +40,8 @@ var nodeInfoInventory = {
     "module": {
         "filename": module.filename,
         "id": module.id,
-        "loaded": module.loaded,
-        "parent": module.parent
+        "loaded": module.loaded//,
+        //"parent": module.parent
     },
     
     "process": {
