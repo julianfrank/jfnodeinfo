@@ -63,6 +63,6 @@ var nodeInfoInventory = {
 
 /*This Function will send the Full consolidated Information in JSON Format*/
 function getNodeInfo() {
-	return nodeInfoInventory
+	return JSON.stringify(nodeInfoInventory)
 }
 module.exports.getNodeInfo = exports.getNodeInfo = getNodeInfo;
