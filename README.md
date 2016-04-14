@@ -1,5 +1,9 @@
 # jfnodeinfo
-Simple Library to fetch Node Instance specific information 
+Simple Library to fetch Node Instance specific information
+
+[![NPM](https://nodei.co/npm/jfnodeinfo.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/jfnodeinfo/)
+
+[![NPM](https://nodei.co/npm-dl/jfnodeinfo.png)](https://nodei.co/npm/jfnodeinfo/) 
 
 To use in your app from 
 ```
